@@ -1,0 +1,26 @@
+{
+  "name": "tosu",
+  "version": "1.0.0",
+  "description": "URL Shortening Service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheOpenSourceU/tOSU.git"
+  },
+  "keywords": [
+    "url"
+  ],
+  "author": "Frank Villasenor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheOpenSourceU/tOSU/issues"
+  },
+  "homepage": "https://github.com/TheOpenSourceU/tOSU#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "express": "^4.16.2"
+  }
+}
