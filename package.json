@@ -20,7 +20,10 @@
   },
   "homepage": "https://github.com/TheOpenSourceU/tOSU#readme",
   "dependencies": {
+    "bluebird": "^3.5.1",
     "debug": "^3.1.0",
-    "express": "^4.16.2"
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "sqlite3": "^3.1.13"
   }
 }
